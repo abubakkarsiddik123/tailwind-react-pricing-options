@@ -1,54 +1,41 @@
 [
   {
     "id": 1,
-    "name": "Basic",
-    "price": 20,
-    "duration": "month",
-    "description": "Great for beginners getting started.",
+    "name": "Basic Plan",
+    "price": "$20.99/month",
+    "info": "Perfect for beginners who want access to essential gym facilities.",
     "features": [
       "Access to gym equipment",
       "Locker facility",
-      "1 group class per week",
-      "Standard gym hours access",
-      "Basic fitness assessment",
-      "Mobile app access",
-      "Free WiFi"
+      "1 free fitness assessment"
     ]
   },
   {
     "id": 2,
-    "name": "Standard",
-    "price": 35,
-    "duration": "month",
-    "description": "Perfect for regular training and fitness improvement.",
+    "name": "Standard Plan",
+    "price": "$39.99/month",
+    "popular":true,
+    "info": "Great for regular users who want extra support and flexibility.",
     "features": [
-      "Full gym access",
-      "Locker & shower facility",
-      "5 group classes per week",
-      "Free diet consultation",
-      "Cardio & strength zones",
-      "Progress tracking",
-      "Guest pass (2 per month)",
-      "Stretching & recovery area access"
+      "All Basic features",
+      "Group classes (Yoga, Cardio)",
+      "2 personal training sessions",
+      "Diet plan guidance"
     ]
   },
   {
     "id": 3,
-    "name": "Premium",
-    "price": 50,
-    "duration": "month",
-    "description": "Best for advanced users and serious training.",
+    "name": "Premium Plan",
+    "price": "$69.99/month",
+    "info": "Best for serious fitness enthusiasts who want full support and premium services.",
     "features": [
+      "All Standard features",
+      "Unlimited personal training",
       "24/7 gym access",
-      "Unlimited group classes",
-      "Personal trainer (3 sessions/week)",
-      "Custom workout plan",
-      "Nutrition guide",
-      "Sauna access",
+      "Custom workout & diet plan",
+      "Access to sauna & spa",
       "Priority support",
-      "Body composition analysis",
-      "Supplement consultation",
-      "VIP lounge access"
+      "Monthly body composition analysis"
     ]
   }
 ]
